@@ -1,8 +1,8 @@
 > _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Justify your Tech-stack
+# Justify your Tech-stack CMD mid-term
 
-Verantwoord en presenteer je keuze voor een tech-stack.
+In deze wiki verantwoord ik de keuze van mijn gekozen tech stack. Ik zal de voodelen en nadelen beschrijven hiervan.
 
 <!-- Haal bovenstaande tekst weg! -->
 
