@@ -2,7 +2,8 @@
 
 # Justify your Tech-stack CMD mid-term
 
-In deze wiki verantwoord ik de keuze van mijn gekozen tech stack. Ik zal de voodelen en nadelen beschrijven hiervan.
+In deze wiki verantwoord ik de keuze van mijn gekozen tech stack. Ik zal de voordelen en nadelen beschrijven hiervan.
+https://github.com/SCNMC/choices-choices-justify-your-tech-stack/wiki
 
 <!-- Haal bovenstaande tekst weg! -->
 
